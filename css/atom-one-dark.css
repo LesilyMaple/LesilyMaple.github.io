@@ -18,12 +18,16 @@ hue-6-2: #e6c07b
 
 */
 
+.prettyprint{
+    background:#282c34!important;
+}
+
 .hljs {
     display: block;
     overflow-x: auto;
     padding: 0.5em;
     color: #abb2bf;
-    background: #282c34;
+    background: #282c34!important;
 }
 
 .hljs-comment,
