@@ -19,7 +19,7 @@ hue-6-2: #e6c07b
 */
 
 .prettyprint{
-    background:#2F3640!important;
+    background:#F4FBF4!important;/*#2F3640*/
 }
 
 .hljs {
@@ -27,7 +27,7 @@ hue-6-2: #e6c07b
     overflow-x: auto;
     padding: 0.5em;
     color: #abb2bf;
-    background: #2F3640!important;
+    background: #F4FBF4!important;
 }
 
 .hljs-comment,
